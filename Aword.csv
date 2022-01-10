@@ -359,7 +359,7 @@ able
 able 
 able 
 able 
--able 
+#NAME?
 able-bodied 
 ablegate 
 ablegate 
@@ -385,7 +385,6 @@ ablution
 ablutionary 
 abluvion 
 ably 
--ably 
 abnegated 
 abnegating 
 abnegate 
@@ -2452,7 +2451,7 @@ adonic
 adonis 
 adonis 
 adonis 
-"adonist 
+adonist "
 adonize 
 adoor 
 adoors 
@@ -4069,7 +4068,7 @@ alethiology
 alethoscope 
 aleuromancy 
 aleurometer 
-"aleurone 
+aleurone "
 aleuronic 
 aleutian 
 aleutic 
@@ -6111,7 +6110,7 @@ angle
 angle 
 angle 
 angle 
-"angle 
+angle "
 angle 
 angled 
 angling 
@@ -8464,7 +8463,7 @@ archery
 archery 
 arches 
 archetypal 
-"archetypally 
+archetypally "
 archetype 
 archetype 
 archetype 
@@ -8495,8 +8494,8 @@ archimedes
 arching 
 arching 
 archipelagic 
--goes 
--gos 
+#NAME?
+#NAME?
 archipelago 
 archipelago 
 archipterygium 
@@ -8566,8 +8565,8 @@ arcuation
 arcubalist 
 arcubalister 
 arcubus 
--ard 
--art 
+#NAME?
+#NAME?
 ardassine 
 ardency 
 ardency 
@@ -11585,7 +11584,8 @@ azonic
 azorian 
 azorian 
 azote 
-azoth 
+azoth"
+
 azoth 
 azotic 
 azotite 
